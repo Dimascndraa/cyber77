@@ -1,0 +1,52 @@
+html,
+body {
+    background-color: #4f594e;
+}
+
+p.nama {
+    background-color: #4f594e;
+    color: honeydew;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-family: carmorant;
+    letter-spacing: 5px;
+}
+
+h1 {
+    font-size: 40px;
+    position: relative;
+    top: 30px;
+    color: honeydew;
+    font-family: carmorant;
+    text-align: center;
+}
+
+.gambar2 {
+    display: flex;
+    justify-content: center;
+    background-color: #4f594e;
+    width: 85%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+p.quote {
+    margin-bottom: 100px;
+    color: honeydew;
+}
+
+
+
+
+.tengah {
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+}
+
+.tengah .btn i {
+    color: honeydew;
+    font-size: 20px;
+    margin: 30px;
+}
